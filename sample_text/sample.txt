@@ -1,0 +1,10 @@
+The quick brown fox jumps over the lazy dog.
+Java programming is fun and challenging.
+Swing GUI applications are powerful.
+This is a test line for searching.
+Programming in Java requires practice.
+The fox is quick and clever.
+GUI design is an art and science.
+This line contains a test word.
+Java streams make data processing easier.
+The dog sleeps while the fox runs.
